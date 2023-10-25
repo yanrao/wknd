@@ -310,6 +310,20 @@ main .section.full-bleed > div {
   margin-bottom: 7px;
 }
 
+.icon-bodea-logo-dk {
+  display: inline-block;
+  width:128px;
+  margin-top: 14px;
+  margin-bottom: 7px;
+}
+
+.icon-bodea-logo-light {
+  display: inline-block;
+  width:128px;
+  margin-top: 14px;
+  margin-bottom: 7px;
+}
+
 /* progressive section appearance */
 main .section[data-section-status='loading'],
 main .section[data-section-status='initialized'] {
